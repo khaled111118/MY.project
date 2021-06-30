@@ -1,0 +1,19 @@
+.parent{
+    width: 100%;
+    background-color: cornsilk;
+}
+div{
+margin: 1%;
+float: left;
+width: calc(92%/3);
+background-color: cornflowerblue;
+border-radius:20px ;
+text-align: center;
+font-size: 35px;
+
+
+}
+img{
+width: 130px;
+height: 130px;
+}
