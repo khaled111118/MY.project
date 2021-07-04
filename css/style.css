@@ -1,19 +1,70 @@
 .parent{
     width: 100%;
-    background-color: cornsilk;
+    background-color: rgb(255, 157, 100);
 }
 div{
 margin: 1%;
 float: left;
-width: calc(92%/3);
+width: calc(92%/4);
 background-color: cornflowerblue;
 border-radius:20px ;
 text-align: center;
 font-size: 35px;
-
+color: antiquewhite;
 
 }
 img{
-width: 130px;
-height: 130px;
+width: 230px;
+height: 230px;
+border-radius: 200px;
+}
+
+ a{
+    text-decoration: none;
+    color:black
+}
+.b{
+    background-color: crimson;
+    width: 1338px;
+
+}
+.y{
+float: left;
+
+}
+.qq{
+    float: right;
+    background-color: darkgoldenrod;
+}
+.q{
+    background-color: darkgoldenrod;
+}
+.logo{ 
+width: 100px;
+height: 100px;
+float: left;
+}
+.logo img{
+width: 100px;
+height: 100px;
+border-radius: 500px;
+}
+.list{
+width: 85%;
+height: 30px;
+float: right;
+padding: 30px 20px 30px 20px ;
+background-color: rgb(207, 159, 27);
+}
+ul li {
+list-style: none;
+display: inline;
+padding: 30px;
+}
+ul li a{
+color: rgb(22, 150, 155);
+text-decoration: none;
+font-size: 30px;
+
+
 }
