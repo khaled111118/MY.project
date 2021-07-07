@@ -109,3 +109,26 @@ margin-top: -200px;
 .kanam{
     background-image: url(../img/oo.jpg);
 }
+.parentg{
+    width: 100%;
+    background-color: rgb(20, 220, 30);
+}
+.cc{
+    background-color: rgb(0, 119, 128);
+}
+.bbb{
+font-size: 40px;
+text-decoration: none;
+color: orangered;
+position: absolute;
+top: 47%;
+left: 37%;
+}
+.pppp{
+    background-color: palevioletred;
+    width: 500px;
+    height: 250px;
+    position: absolute;
+    top: 38%;
+left: 32%;
+}
