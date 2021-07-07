@@ -2,6 +2,10 @@
     width: 100%;
     background-color: rgb(255, 157, 100);
 }
+.parentr{
+    width: 100%;
+    background-color: darkgreen;
+}
 div{
 margin: 1%;
 float: left;
@@ -33,12 +37,14 @@ float: left;
 
 }
 .qq{
-    float: right;
+   
     background-color: darkgoldenrod;
 }
 .q{
+    float: right;
     background-color: darkgoldenrod;
 }
+
 .logo{ 
 width: 15%;
 height: 150px;
@@ -131,4 +137,8 @@ left: 37%;
     position: absolute;
     top: 38%;
 left: 32%;
+}
+.parnety{
+    width: 100%;
+    background-color: crimson;
 }
