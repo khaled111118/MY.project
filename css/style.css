@@ -142,3 +142,18 @@ left: 32%;
     width: 100%;
     background-color: crimson;
 }
+.ppppp{
+    background-color: black;
+    width: 750px;
+    height: 350px;
+position: absolute;
+left: 20%;
+top: 23%;
+}
+h1{
+    color: blanchedalmond;
+}
+p{
+    color: darkgray;
+    font-size: 20px;
+}
